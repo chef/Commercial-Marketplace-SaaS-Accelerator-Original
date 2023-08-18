@@ -1,3 +1,6 @@
+THIS REPO HAS BEEN ARCHIVED.
+IT HAS BEEN REPLACED BY [THIS PRIVATE/INTERNAL FORK](https://github.com/chef/Commercial-Marketplace-SaaS-Accelerator).
+
 # Microsoft Commercial Marketplace - Community Sample Code and SDK for SaaS Applications
 
 ![.NET Core](https://github.com/Azure/Commercial-Marketplace-SaaS-Accelerator/workflows/.NET%20Core/badge.svg)
